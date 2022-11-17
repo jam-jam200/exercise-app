@@ -95,6 +95,21 @@ body {
   border: 1px solid #ff2625 !important;
 }
 
+.search-input {
+  border: none !important;
+  outline: none !important;
+}
+
+.search-input:hover {
+  border: none !important;
+  outline: none!;
+}
+
+.search-input:focus {
+  border: none !important;
+  outline: none!;
+}
+
 .exercise-video {
   display: flex;
   flex-direction: column;
